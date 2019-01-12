@@ -3,7 +3,7 @@
 // @name        New
 // @namespace   https://github.com/Legioniam/FT-cheat
 // @include     http://faptitans.com/*
-// @version     1
+// @version     3
 // @run-at      document-end
 // @grant       none
 // ==/UserScript==
