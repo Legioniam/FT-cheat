@@ -1,7 +1,7 @@
 // ==UserScript==
 // @description A greasemonky userscript for cheating on a dumb online game
 // @name        New
-// @namespace   https://bolche.github.io/FT-cheat/
+// @namespace   https://github.com/Legioniam/FT-cheat
 // @include     http://faptitans.com/*
 // @version     1
 // @run-at      document-end
@@ -10,7 +10,7 @@
 
 // Replace scripts
 DEBUG = 1
-window.SCRIPT_SRC = ['https://bolche.github.io/FT-cheat/vendor.js', 'https://bolche.github.io/FT-cheat/conf.js', 'https://bolche.github.io/FT-cheat/app.js'];
+window.SCRIPT_SRC = ['https://github.com/Legioniam/FT-cheat/vendor.js', 'https://github.com/Legioniam/FT-cheatconf.js', 'https://github.com/Legioniam/FT-cheat/app.js'];
 
 // Create buttons for cheats
 var cheatToolbar = document.createElement('div');
